@@ -1,0 +1,4 @@
+{"condition":"win","userAnswer":"Решка","rightAnswer":"Решка"}
+{"condition":"win","userAnswer":"Орёл","rightAnswer":"Орёл"}
+{"condition":"win","userAnswer":"Орёл","rightAnswer":"Орёл"}
+{"condition":"lose","userAnswer":"Орёл","rightAnswer":"Решка"}
